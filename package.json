@@ -1,0 +1,13 @@
+{
+  "name": "test-argv-quoted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "patch": "node index.js",
+    "patch-as-it-should-be-called": "node index.js a \"b b\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
